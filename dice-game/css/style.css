@@ -1,0 +1,34 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-size: 80px;
+}
+
+.container h1{
+    font-size: 100px;
+}
+
+.ms_winner{
+    color: red;
+    font-weight: 900;
+    font-size: 100px;
+}
+
+.ms_btn{
+    background-color: brown;
+    border-radius: 50px;
+    color: white;
+}
+
+.mid_col{
+    box-shadow: 0 0 50px rgb(138, 138, 138);
+    padding: 2rem 0;
+    border-radius: 10px;
+}
